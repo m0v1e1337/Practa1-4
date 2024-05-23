@@ -1,0 +1,15 @@
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet.csproj.AssemblyReference.cache
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\App.g.cs
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet_MarkupCompile.cache
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet_MarkupCompile.lref
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\bin\Debug\Laba 1-4 DataSet.exe.config
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\bin\Debug\Laba 1-4 DataSet.exe
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\bin\Debug\Laba 1-4 DataSet.pdb
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\MainWindow.baml
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet.g.resources
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba_1_4_DataSet.Properties.Resources.resources
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet.csproj.GenerateResource.cache
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet.exe
+C:\Users\Dmitrii Tihonov\Desktop\Я непогрешим\Лекция пиздострадания\2 курс\УП София\Laba 1-4 DataSet\obj\Debug\Laba 1-4 DataSet.pdb
